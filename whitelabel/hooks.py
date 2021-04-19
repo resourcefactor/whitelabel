@@ -47,8 +47,8 @@ web_include_css = "/assets/whitelabel/css/whitelabel_web.css"
 # get_website_user_home_page = "whitelabel.utils.get_home_page"
 
 website_context = {
-	"favicon": "/assets/whitelabel/images/whitelabel_logo.jpg",
-	"splash_image": "/assets/whitelabel/images/whitelabel_logo.jpg"
+	"favicon": "/assets/whitelabel/images/rflogo.png",
+	"splash_image": "/assets/whitelabel/images/rflogo.png"
 }
 after_migrate = ['whitelabel.api.whitelabel_patch']
 
